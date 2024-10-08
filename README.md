@@ -10,9 +10,10 @@ style="width:200px;"/>
 
 <p>
 
-![GitHub License](https://img,shields,io/github/license/fhqyhsl/vue3-ts-docss)
-![GitHub Stars](https://img.shields,io/github/stars/hqyhsl/vue3-ts-docss)
-![GitHub Forks](https://img.shields,io/github/forks/hqyhsl/vue3-ts-docss)
+![GitHub License](https://img.shields.io/github/license/fhqyhsl/vue3-ts-docs)
+
+![GitHub Stars](https://img.shields.io/github/stars/fhqyhsl/vue3-ts-docs)
+![GitHub Forks](https://img.shields.io/github/forks/fhqyhsl/vue3-ts-docs)
 
 ![Build Status](https://img.shields.io/github/workflow/status/zyx/
 vue3-ts-docs/CI)
