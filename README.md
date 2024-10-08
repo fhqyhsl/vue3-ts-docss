@@ -15,10 +15,9 @@ style="width:200px;"/>
 ![GitHub Stars](https://img.shields.io/github/stars/fhqyhsl/vue3-ts-docs)
 ![GitHub Forks](https://img.shields.io/github/forks/fhqyhsl/vue3-ts-docs)
 
-![Build Status](https://img.shields.io/github/workflow/status/zyx/
-vue3-ts-docs/CI)
+![Build Status](https://img.shields.io/github/workflow/status/mqxu/vue3-ts-docs/CI)
 
-![NPM Version](https://img. shields.io/npm/v/vue)
+![NPM Version](https://img.shields.io/npm/v/vue)
 ![NPM Downloads](https://img.shields.io/npm/dw/vue)
 ![Maintenance](https://img.shields.io/maintenance/yes/2024)
 
